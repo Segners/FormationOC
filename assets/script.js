@@ -42,7 +42,7 @@ arrowRight.addEventListener('click', function () {
 	slide++;
     updateSlider();
     console.log(slide = (slide + slides.length) % slides.length);
-	console.log('Flèche gauche cliquée');
+	console.log('Flèche droite cliquée');
 
 });
 
