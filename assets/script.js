@@ -63,7 +63,7 @@ function initDots()
     }
 }
 
-//Update le carousel
+//Update le carrousel
 function updateSlider() 
 {
 	/* 
